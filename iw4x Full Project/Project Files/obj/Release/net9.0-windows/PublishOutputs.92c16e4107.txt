@@ -1,0 +1,5 @@
+C:\Users\SHULKATAG\Pictures\Screenshots\Test15.exe
+C:\Users\SHULKATAG\Pictures\Screenshots\Test15.dll
+C:\Users\SHULKATAG\Pictures\Screenshots\Test15.deps.json
+C:\Users\SHULKATAG\Pictures\Screenshots\Test15.runtimeconfig.json
+C:\Users\SHULKATAG\Pictures\Screenshots\Test15.pdb
