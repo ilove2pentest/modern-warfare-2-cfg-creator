@@ -1,2 +1,0 @@
-\seta r_filmUseTweaks 1
-\seta r_filmTweakEnable 1
